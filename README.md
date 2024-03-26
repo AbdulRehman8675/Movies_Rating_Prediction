@@ -1,2 +1,5 @@
 # Movies_Rating_Prediction
-In this I train a model for predicting the rating of a movie and also perform some sort of analysis
+Movie Rating Prediction:
+
+Description: Movie Rating Prediction involves developing a predictive model that can estimate the rating or popularity of a movie based on various features such as genre, cast, director, budget, and user reviews.
+Goal: The objective of this project is to create a tool that can assist movie producers, distributors, and streaming platforms in predicting the potential success or audience reception of a movie before its release.
